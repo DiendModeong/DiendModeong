@@ -1,6 +1,6 @@
 ![logo](https://media.discordapp.net/attachments/1027085973407940680/1027804553850126386/Logopit_1665118035895.jpg?width=999&height=468)
 <h1 align="center">Hi 👋, I'm Diend modeong</h1>
-<h3 align="center">A passionate frontend developer from Sulawesi utara, Indonesia</h3>
+<h3 align="center">A passionate frontend developer from manado, Sulawesi utara, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diendmodeong&label=Profile%20views&color=0e75b6&style=flat" alt="diendmodeong" /> </p>
 
